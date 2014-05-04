@@ -446,7 +446,7 @@
 		{
 			position: relative;
 			display: inline-block;
-			background: #ed786a;
+			background: #603311;
 			color: #fff !important;
 			text-transform: uppercase;
 			border-radius: 4px;
@@ -472,12 +472,12 @@
 
 			.button:hover
 			{
-				background: #fd887a;
+				background:  #A68064;
 			}
 			
 			.button:active
 			{
-				background: #ed786a;
+				background: #A68064;
 			}
 		
 			.button-alt
@@ -984,7 +984,7 @@
 
 		#banner-wrapper .inner
 		{
-			background: url('../images/banner.jpg');
+			background: url('../images/jesus.jpg');
 			background-size: cover;
 		}
 
@@ -1042,7 +1042,7 @@
 		
 		#footer-wrapper h2
 		{
-			text-align: center;
+			text-align: left;
 		}
 
 /*********************************************************************************/
@@ -1052,15 +1052,13 @@
 	#header
 	{
 		position: relative;
-		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
-	}
+		}
 
 		#header h1
 		{
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #603311;
 			text-shadow: 0.05em 0.075em 0 rgba(0,0,0,0.1);
 		}
 
@@ -1140,14 +1138,14 @@
 					#nav > ul > li.active > a:before,
 					#nav > ul > li:hover > a:before
 					{
-						background: #ED786A;
+						background: #603311;
 						color: #fff;
 					}
 			
 					#nav > ul > li.active > a > span,
 					#nav > ul > li:hover > a > span
 					{
-						color: #ED786A;
+						color: #777;
 					}
 
 /*********************************************************************************/
